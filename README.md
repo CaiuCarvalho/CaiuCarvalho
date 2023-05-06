@@ -45,28 +45,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&theme=dracula"/>
 </div>
-
-<a href=" https://github.com/CaiuCarvalho/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
- </a> 
-<a href="https://github.com/CaiuCarvalho/convoychat"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&theme=dracula"/>
- </a>
--->
-<div align="center">
-    <a href="https://github.com/CaiuCarvalho">
-        <img src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&     layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
-    
-<!-- trofeus -->  
-### :zap: GitHub Trofeus 🏆
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=CaiuCarvalho&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
-  </a>
-</p> 
   
 ##  
   
@@ -74,8 +52,7 @@
 <h2 align="center">Meu grafico de contribuções.. <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_cobrinha.gif" width="60"></h2>
   
   ![Snake animation](https://github.com/CaiuCarvalho/CaiuCarvalho/blob/output/github-contribution-grid-snake.svg)
-       
-
+    
 
 <!-- redes sociais e contatos -->
 <div align="center">
