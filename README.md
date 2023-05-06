@@ -6,8 +6,8 @@
 ##
 
 <h3 align="center"> 
-    - 🔭 Atualmente trabalhando com Administração <br/>
-    - 🌱 Cursando Análise e Desenvolvimento de Sistemas<br>
+    - 🔭 Atualmente trabalhando com Administração (Preencher) <br/>
+    - 🌱 Análise e Desenvolvimento de Sistemas - 2º Período<br>
     - :mortar_board: Universidade Positivo - Câmpus Ecoville
 </h3>
 
