@@ -33,9 +33,7 @@
 
 <!-- contador de commits, views e repositorios-->
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=CaiuCarvalho" alt="CaiuCarvalho" /> 
- <img src="https://badges.pufler.dev/repos/CaiuCarvalho"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://komarev.com/ghpvc/?username=CaiuCarvalho" alt="CaiuCarvalho" />
 </p>
 <br/>
 
