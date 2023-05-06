@@ -47,7 +47,7 @@
 <!-- snake game eat commits -->  
 <h2 align="center">Meu grafico de contribuções.. <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_cobrinha.gif" width="60"></h2>
   
-  ![Snake animation](https://github.com/CaiuCarvalho/CaiuCarvalho/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/CaiuCarvalho/CaiuCarvlalho/blob/output/github-contribution-grid-snake.svg)
     
 
 <!-- redes sociais e contatos -->
