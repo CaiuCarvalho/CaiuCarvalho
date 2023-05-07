@@ -1,6 +1,6 @@
 <!-- fundo gif -->
 <p align="center" width=200>
-    <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/fundo_pronto_gif.gif" />
+    <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/fundo_pronto.gif" />
 </p align="center">
 
 ##
