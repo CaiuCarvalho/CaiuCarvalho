@@ -3,12 +3,28 @@
     <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/fundo_pronto.gif" />
 </p align="center">
 
-##
+<!-- redes sociais e contatos -->
+<div align="right">
+    <h2 align="right">Minha redes sociais e contato <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_celular" width=50></h2>
+        <a href="https://www.instagram.com/qaio_lu" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        </a>
+        <a href="https://www.linkedin.com/in/caiolucarvalho" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   
+        </a>
+        <a href="mailto:caiu.lfc@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+        </a>
+</div>
 
-<h3 align="center"> 
-    - 🌱 Análise e Desenvolvimento de Sistemas - 2º Período<br>
-    - :mortar_board: Universidade Positivo - Câmpus Ecoville
-</h3>
+<h4 align="left"> 
+    💡  Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.<br>
+    🌱 Análise e Desenvolvimento de Sistemas - 2º Período.<br>
+     :mortar_board: Universidade Positivo - Câmpus Ecoville.<br>
+    ✍️  No meu tempo livre, busco me aprofundar em alguns temas relacionados ao meu curso.<br>
+    💬  Sinta-se à vontade para entrar em contato comigo pelos contatos que disponibilizei acima.<br>
+    ✉️  Você pode me enviar um e-mail para caiu.lfc@gmail.com ! Vou tentar responder assim que puder.
+</h4>
 
 ##
 
@@ -21,8 +37,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" / width=55 height=50>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" / width=55 height=50>      
 </p><br>
-
-
 
 <!-- gifs prgramando -->
 <p align="center">
@@ -39,22 +53,7 @@
 <!-- status -->
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/ height="180em" >
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaiuCarvalho&layout=compact&langs_count=8&theme=algolia"/ height="180em" >
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaiuCarvalho&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-  
-
-<!-- redes sociais e contatos -->
-<div align="center">
-    <h2 align="center">Minha redes sociais e contato <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_celular" width=50></h2>
-        <a href="https://www.instagram.com/qaio_lu" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-        </a>
-        <a href="https://www.linkedin.com/in/caiolucarvalho" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   
-        </a>
-        <a href="mailto:caiu.lfc@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
-        </a>
-</div>
