@@ -39,11 +39,6 @@
 | <a href="https://github.com/CaiuCarvalho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Caio's github stats" /></a> | <a href="https://github.com/CaiuCarvalho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
   
-##  
-  
-<!-- snake game eat commits -->  
-<h2 align="center">Meu grafico de contribuções.. <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_cobrinha.gif" width="60"></h2>
-    
 
 <!-- redes sociais e contatos -->
 <div align="center">
