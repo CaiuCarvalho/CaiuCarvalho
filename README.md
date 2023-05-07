@@ -5,7 +5,6 @@
 
 <!-- redes sociais e contatos -->
 <div align="right">
-    <h2 align="right">Minha redes sociais e contato <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_celular" width=50></h2>
         <a href="https://www.instagram.com/qaio_lu" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
         </a>
@@ -18,6 +17,7 @@
 </div>
 
 <h4 align="left"> 
+    <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_celular" width=50 align="right">
     💡  Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.<br>
     🌱 Análise e Desenvolvimento de Sistemas - 2º Período.<br>
      :mortar_board: Universidade Positivo - Câmpus Ecoville.<br>
