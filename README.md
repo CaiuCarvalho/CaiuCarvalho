@@ -36,8 +36,13 @@
 </p>
 <br/>
 
-| <a href="https://github.com/CaiuCarvalho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Caio's github stats" /></a> | <a href="https://github.com/CaiuCarvalho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- status -->
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/ height="180em" >
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaiuCarvalho&layout=compact&langs_count=8&theme=algolia"/ height="180em" >
+</a>
+</p>
   
 
 <!-- redes sociais e contatos -->
