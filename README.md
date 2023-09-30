@@ -7,7 +7,7 @@
 <div align="right">
         <a>
         <a href="https://www.caio-carvalho.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/portfolio%2C%20Meu%20Portf%C3%B3lio%2C%20%20Blue" target="_blank">
+            <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
         <a/>
         <a href="https://www.instagram.com/qaio_lu" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
