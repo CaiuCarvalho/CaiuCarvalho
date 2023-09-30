@@ -5,6 +5,9 @@
 
 <!-- redes sociais e contatos -->
 <div align="right">
+        <a>
+            ![Static Badge](https://img.shields.io/badge/portfolio%2C%20Meu%20Portf%C3%B3lio%2C%20%20Blue)
+        <a/>
         <a href="https://www.instagram.com/qaio_lu" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
         </a>
@@ -24,7 +27,7 @@
 :mortar_board: Universidade Positivo - Câmpus Ecoville.<br>
 ✍️  No meu tempo livre, busco me aprofundar em alguns temas relacionados ao meu curso.<br>
 💬  Sinta-se à vontade para entrar em contato comigo pelos contatos que disponibilizei acima.<br>
-✉️  Você pode me enviar um e-mail para caiu.lfc@gmail.com ! Vou tentar responder assim que puder.
+✉️  Você pode me enviar um e-mail para caiu.lfc@gmail.com ! Vou tentar responder assim que puder.<br>
 
 ##
 
