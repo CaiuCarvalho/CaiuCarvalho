@@ -6,7 +6,8 @@
 <!-- redes sociais e contatos -->
 <div align="right">
         <a>
-            ![Static Badge](https://img.shields.io/badge/portfolio%2C%20Meu%20Portf%C3%B3lio%2C%20%20Blue)
+        <a href="https://www.caio-carvalho.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/portfolio%2C%20Meu%20Portf%C3%B3lio%2C%20%20Blue" target="_blank">
         <a/>
         <a href="https://www.instagram.com/qaio_lu" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
