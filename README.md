@@ -24,7 +24,7 @@
 
 <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_celular" width=50 align="right">
 💡  Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.<br>
-🌱 Análise e Desenvolvimento de Sistemas - 3º Período.<br>
+🌱 Formado em Análise e Desenvolvimento de Sistemas.<br>
 :mortar_board: Universidade Positivo - Câmpus Ecoville.<br>
 ✍️  No meu tempo livre, busco me aprofundar em alguns temas relacionados ao meu curso.<br>
 💬  Sinta-se à vontade para entrar em contato comigo pelos contatos que disponibilizei acima.<br>
