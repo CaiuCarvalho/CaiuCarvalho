@@ -27,8 +27,7 @@
 🌱 Formado em Análise e Desenvolvimento de Sistemas.<br>
 :mortar_board: Universidade Positivo - Câmpus Ecoville.<br>
 ✍️  No meu tempo livre, busco me aprofundar em temas relacionados a Tecnologia e Inovação<br>
-💬  Sinta-se à vontade para entrar em contato comigo pelos contatos que disponibilizei acima.<br>
-✉️  Você pode me enviar um e-mail para caiu.lfc@gmail.com ! Vou tentar responder assim que puder.<br>
+💬  Sinta-se à vontade para entrar em contato comigo pelos contatos que disponibilizei acima ✉️ <br>
 
 ##
 
