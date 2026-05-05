@@ -23,24 +23,24 @@
 
 ### 👨‍💻 Sobre mim
 
-💡 Gosto de explorar novas tecnologias e desenvolver solucoes de software e hacks rapidos.<br>
-🌱 Formado em Analise e Desenvolvimento de Sistemas - Universidade Positivo.<br>
-✍️ No meu tempo livre, me aprofundo em Tecnologia, Inovacao e novos projetos.<br>
-💬 Fique a vontade para entrar em contato pelos links acima! ✉️<br>
+💡 Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.<br>
+🌱 Formado em Análise e Desenvolvimento de Sistemas — Universidade Positivo.<br>
+✍️ No meu tempo livre, me aprofundo em Tecnologia, Inovação e novos projetos.<br>
+💬 Fique à vontade para entrar em contato pelos links acima! ✉️<br>
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" style="display:inline;margin:4px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" style="display:inline;margin:4px" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" style="display:inline;margin:4px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" style="display:inline;margin:4px" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" style="display:inline;margin:4px" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" style="display:inline;margin:4px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" style="display:inline;margin:4px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" style="display:inline;margin:4px" title="Git"/>
 </p>
 
 ---
